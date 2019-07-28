@@ -1,2 +1,5 @@
 echo "first git hub class"
 echo "from the github appending few line"
+
+echo "ravi"
+echo "kj"
